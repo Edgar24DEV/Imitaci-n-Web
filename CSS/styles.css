@@ -110,7 +110,7 @@ p {
 @media only screen and (max-width: 620px) {
     /* Estilos para pantallas con ancho igual o inferior a 620px */
     body {
-      font-size: 12px;
+      font-size: 10px;
     }
   
     .container {
