@@ -47,6 +47,7 @@ li, li a, li a:visited {
 li {
     display: list-item;
     text-align: -webkit-match-parent;
+    list-style: none;
 }
 .nave li a {
     display: block;
